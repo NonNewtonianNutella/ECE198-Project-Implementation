@@ -1,2 +1,4 @@
 # ECE198-Project-Implementation
-//s
+
+Project Info:
+Automated Accessible Storage Container For People With Disabilities
